@@ -9,7 +9,8 @@ public class Book
     }
 
     public int Id { get; set; }
-    public required string Title { get; set; }
-    public string? ReleaseDate { get; set; }
-    public required int AutorId { get; set; }
+    public string Title { get; set; }
+    public int ReleaseYear { get; set; }
+    public int AutorId { get; set; }
+    public virtual Autor Autor { get; set; } = null!;
 }

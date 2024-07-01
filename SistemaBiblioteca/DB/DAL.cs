@@ -13,5 +13,11 @@ public class DAL<T> where T : class
     {
         return _context.Set<T>();
     }
+
+    public void Add(T obj)
+    {
+        _context.Set<T>().Add(obj);
+        _context.SaveChanges();
+    }
 }
 
