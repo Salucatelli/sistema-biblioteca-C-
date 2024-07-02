@@ -19,5 +19,22 @@ public class DAL<T> where T : class
         _context.Set<T>().Add(obj);
         _context.SaveChanges();
     }
+
+    public void Update(T obj)
+    {
+        _context.Set<T>().Update(obj);
+        _context.SaveChanges();
+    }
+
+    public void Delete(T obj)
+    {
+        _context.Set<T>().Remove(obj);
+        _context.SaveChanges();
+    }
+
+    public T? FindOne(Func<T, bool> condition)
+    {
+        return _context.Set<T>().FirstOrDefault(condition);
+    }
 }
 
