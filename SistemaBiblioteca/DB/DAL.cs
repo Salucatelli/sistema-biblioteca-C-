@@ -14,6 +14,11 @@ public class DAL<T> where T : class
         return _context.Set<T>();
     }
 
+    public IEnumerable<T> ShowAllSelected()
+    {
+        return _context.Set<T>().AsQueryable();
+    }
+
     public void Add(T obj)
     {
         _context.Set<T>().Add(obj);

@@ -10,13 +10,17 @@ public static class AutorRoutes
 {
     public static void AddAutorRoutes(this WebApplication app)
     {
-        //See all the Autors
+        //Find all the Autors
         app.MapGet("/autors", ([FromServices] DAL<Autor> dal) =>
         {
-            return Results.Ok(dal.ShowAll());
+            var query = dal.ShowAllSelected();
+
+            var autor = query.Select(l => new AutorDTO(l.Name, l.BirthYear, l.Id)).ToList();
+
+            return Results.Ok(autor);
         });
 
-        //See One Autor by Id
+        //Find One Autor by Id
         app.MapGet("/autors/{id}", ([FromServices] DAL<Autor> dal, int id) =>
         {
             var autor = dal.FindOne(a => a.Id == id);

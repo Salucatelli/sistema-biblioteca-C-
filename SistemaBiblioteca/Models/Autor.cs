@@ -5,5 +5,5 @@ public class Autor
     public int Id { get; set; }
     public string Name { get; set; }
     public int BirthYear { get; set; }
-    public virtual List<Book> Books { get; set; } = new List<Book>();
+    public virtual ICollection<Book> Books { get; set; }
 }
