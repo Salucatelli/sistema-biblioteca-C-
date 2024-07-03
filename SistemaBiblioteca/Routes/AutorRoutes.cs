@@ -15,7 +15,7 @@ public static class AutorRoutes
         {
             var query = dal.ShowAllSelected();
 
-            var autor = query.Select(l => new AutorDTO(l.Name, l.BirthYear, l.Id)).ToList();
+            var autor = query.Select(a => new AutorDTO(a.Name, a.BirthYear, a.Id)).ToList();
 
             return Results.Ok(autor);
         });
@@ -23,17 +23,20 @@ public static class AutorRoutes
         //Find One Autor by Id
         app.MapGet("/autors/{id}", ([FromServices] DAL<Autor> dal, int id) =>
         {
-            var autor = dal.FindOne(a => a.Id == id);
+            var query = dal.FindOneSelect(a => a.Id == id)!;
 
-            if(autor is not null)
+            if (query is null)
             {
-                return Results.Ok(autor);
+                return Results.NotFound("Autor não encontrado");
             }
-            return Results.NotFound("Autor não encontrado!");
+
+            var autor = new AutorDTO(query.Name, query.BirthYear, query.Id);
+
+            return Results.Ok(autor);
         });
 
         //Add an Autor
-        app.MapPost("/autors", ([FromServices] DAL<Autor> dal, [FromBody] AutorDTO autordto) =>
+        app.MapPost("/autors", ([FromServices] DAL<Autor> dal, [FromBody] AutorCreateDTO autordto) =>
         {
             var autor = new Autor()
             {

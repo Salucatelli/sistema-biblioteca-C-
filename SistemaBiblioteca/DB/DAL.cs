@@ -41,5 +41,10 @@ public class DAL<T> where T : class
     {
         return _context.Set<T>().FirstOrDefault(condition);
     }
+
+    public T? FindOneSelect(Func<T, bool> condition)
+    {
+        return _context.Set<T>().AsQueryable().FirstOrDefault(condition);
+    }
 }
 
