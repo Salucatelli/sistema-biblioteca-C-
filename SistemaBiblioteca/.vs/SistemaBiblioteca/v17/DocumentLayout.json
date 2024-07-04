@@ -3,28 +3,28 @@
   "WorkspaceRootPath": "D:\\Meus Arquivos\\Prog\\projetos\\API C# Biblioteca - Desafio GPT\\sistema-biblioteca-C-\\SistemaBiblioteca\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E9DC581D-D0AB-4996-AFE9-5BB8BC440DFC}|SistemaBiblioteca.csproj|d:\\meus arquivos\\prog\\projetos\\api c# biblioteca - desafio gpt\\sistema-biblioteca-c-\\sistemabiblioteca\\routes\\autorroutes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E9DC581D-D0AB-4996-AFE9-5BB8BC440DFC}|SistemaBiblioteca.csproj|solutionrelative:routes\\autorroutes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E9DC581D-D0AB-4996-AFE9-5BB8BC440DFC}|SistemaBiblioteca.csproj|d:\\meus arquivos\\prog\\projetos\\api c# biblioteca - desafio gpt\\sistema-biblioteca-c-\\sistemabiblioteca\\routes\\loanroutes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9DC581D-D0AB-4996-AFE9-5BB8BC440DFC}|SistemaBiblioteca.csproj|solutionrelative:routes\\loanroutes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E9DC581D-D0AB-4996-AFE9-5BB8BC440DFC}|SistemaBiblioteca.csproj|d:\\meus arquivos\\prog\\projetos\\api c# biblioteca - desafio gpt\\sistema-biblioteca-c-\\sistemabiblioteca\\dtos\\autorupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E9DC581D-D0AB-4996-AFE9-5BB8BC440DFC}|SistemaBiblioteca.csproj|solutionrelative:dtos\\autorupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E9DC581D-D0AB-4996-AFE9-5BB8BC440DFC}|SistemaBiblioteca.csproj|d:\\meus arquivos\\prog\\projetos\\api c# biblioteca - desafio gpt\\sistema-biblioteca-c-\\sistemabiblioteca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9DC581D-D0AB-4996-AFE9-5BB8BC440DFC}|SistemaBiblioteca.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E9DC581D-D0AB-4996-AFE9-5BB8BC440DFC}|SistemaBiblioteca.csproj|d:\\meus arquivos\\prog\\projetos\\api c# biblioteca - desafio gpt\\sistema-biblioteca-c-\\sistemabiblioteca\\dtos\\autorcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E9DC581D-D0AB-4996-AFE9-5BB8BC440DFC}|SistemaBiblioteca.csproj|solutionrelative:dtos\\autorcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E9DC581D-D0AB-4996-AFE9-5BB8BC440DFC}|SistemaBiblioteca.csproj|d:\\meus arquivos\\prog\\projetos\\api c# biblioteca - desafio gpt\\sistema-biblioteca-c-\\sistemabiblioteca\\dtos\\loanupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9DC581D-D0AB-4996-AFE9-5BB8BC440DFC}|SistemaBiblioteca.csproj|solutionrelative:dtos\\loanupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E9DC581D-D0AB-4996-AFE9-5BB8BC440DFC}|SistemaBiblioteca.csproj|d:\\meus arquivos\\prog\\projetos\\api c# biblioteca - desafio gpt\\sistema-biblioteca-c-\\sistemabiblioteca\\routes\\bookroutes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E9DC581D-D0AB-4996-AFE9-5BB8BC440DFC}|SistemaBiblioteca.csproj|solutionrelative:routes\\bookroutes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E9DC581D-D0AB-4996-AFE9-5BB8BC440DFC}|SistemaBiblioteca.csproj|d:\\meus arquivos\\prog\\projetos\\api c# biblioteca - desafio gpt\\sistema-biblioteca-c-\\sistemabiblioteca\\dtos\\bookcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E9DC581D-D0AB-4996-AFE9-5BB8BC440DFC}|SistemaBiblioteca.csproj|solutionrelative:dtos\\bookcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E9DC581D-D0AB-4996-AFE9-5BB8BC440DFC}|SistemaBiblioteca.csproj|d:\\meus arquivos\\prog\\projetos\\api c# biblioteca - desafio gpt\\sistema-biblioteca-c-\\sistemabiblioteca\\models\\loan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9DC581D-D0AB-4996-AFE9-5BB8BC440DFC}|SistemaBiblioteca.csproj|solutionrelative:models\\loan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E9DC581D-D0AB-4996-AFE9-5BB8BC440DFC}|SistemaBiblioteca.csproj|d:\\meus arquivos\\prog\\projetos\\api c# biblioteca - desafio gpt\\sistema-biblioteca-c-\\sistemabiblioteca\\dtos\\bookupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E9DC581D-D0AB-4996-AFE9-5BB8BC440DFC}|SistemaBiblioteca.csproj|solutionrelative:dtos\\bookupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E9DC581D-D0AB-4996-AFE9-5BB8BC440DFC}|SistemaBiblioteca.csproj|d:\\meus arquivos\\prog\\projetos\\api c# biblioteca - desafio gpt\\sistema-biblioteca-c-\\sistemabiblioteca\\db\\bibliotecacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9DC581D-D0AB-4996-AFE9-5BB8BC440DFC}|SistemaBiblioteca.csproj|solutionrelative:db\\bibliotecacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E9DC581D-D0AB-4996-AFE9-5BB8BC440DFC}|SistemaBiblioteca.csproj|d:\\meus arquivos\\prog\\projetos\\api c# biblioteca - desafio gpt\\sistema-biblioteca-c-\\sistemabiblioteca\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -37,14 +37,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{E9DC581D-D0AB-4996-AFE9-5BB8BC440DFC}|SistemaBiblioteca.csproj|d:\\meus arquivos\\prog\\projetos\\api c# biblioteca - desafio gpt\\sistema-biblioteca-c-\\sistemabiblioteca\\models\\autor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E9DC581D-D0AB-4996-AFE9-5BB8BC440DFC}|SistemaBiblioteca.csproj|solutionrelative:models\\autor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E9DC581D-D0AB-4996-AFE9-5BB8BC440DFC}|SistemaBiblioteca.csproj|d:\\meus arquivos\\prog\\projetos\\api c# biblioteca - desafio gpt\\sistema-biblioteca-c-\\sistemabiblioteca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E9DC581D-D0AB-4996-AFE9-5BB8BC440DFC}|SistemaBiblioteca.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E9DC581D-D0AB-4996-AFE9-5BB8BC440DFC}|SistemaBiblioteca.csproj|d:\\meus arquivos\\prog\\projetos\\api c# biblioteca - desafio gpt\\sistema-biblioteca-c-\\sistemabiblioteca\\db\\bibliotecacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E9DC581D-D0AB-4996-AFE9-5BB8BC440DFC}|SistemaBiblioteca.csproj|solutionrelative:db\\bibliotecacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -66,67 +58,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "BookUpdateDTO.cs",
-              "DocumentMoniker": "D:\\Meus Arquivos\\Prog\\projetos\\API C# Biblioteca - Desafio GPT\\sistema-biblioteca-C-\\SistemaBiblioteca\\DTOs\\BookUpdateDTO.cs",
-              "RelativeDocumentMoniker": "DTOs\\BookUpdateDTO.cs",
-              "ToolTip": "D:\\Meus Arquivos\\Prog\\projetos\\API C# Biblioteca - Desafio GPT\\sistema-biblioteca-C-\\SistemaBiblioteca\\DTOs\\BookUpdateDTO.cs",
-              "RelativeToolTip": "DTOs\\BookUpdateDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
+              "DocumentIndex": 2,
+              "Title": "LoanUpdateDTO.cs",
+              "DocumentMoniker": "D:\\Meus Arquivos\\Prog\\projetos\\API C# Biblioteca - Desafio GPT\\sistema-biblioteca-C-\\SistemaBiblioteca\\DTOs\\LoanUpdateDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\LoanUpdateDTO.cs",
+              "ToolTip": "D:\\Meus Arquivos\\Prog\\projetos\\API C# Biblioteca - Desafio GPT\\sistema-biblioteca-C-\\SistemaBiblioteca\\DTOs\\LoanUpdateDTO.cs",
+              "RelativeToolTip": "DTOs\\LoanUpdateDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-03T21:01:37.607Z",
+              "WhenOpened": "2024-07-04T16:44:46.116Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "AutorUpdateDTO.cs",
-              "DocumentMoniker": "D:\\Meus Arquivos\\Prog\\projetos\\API C# Biblioteca - Desafio GPT\\sistema-biblioteca-C-\\SistemaBiblioteca\\DTOs\\AutorUpdateDTO.cs",
-              "RelativeDocumentMoniker": "DTOs\\AutorUpdateDTO.cs",
-              "ToolTip": "D:\\Meus Arquivos\\Prog\\projetos\\API C# Biblioteca - Desafio GPT\\sistema-biblioteca-C-\\SistemaBiblioteca\\DTOs\\AutorUpdateDTO.cs",
-              "RelativeToolTip": "DTOs\\AutorUpdateDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Meus Arquivos\\Prog\\projetos\\API C# Biblioteca - Desafio GPT\\sistema-biblioteca-C-\\SistemaBiblioteca\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Meus Arquivos\\Prog\\projetos\\API C# Biblioteca - Desafio GPT\\sistema-biblioteca-C-\\SistemaBiblioteca\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-03T21:01:21.513Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AutorCreateDTO.cs",
-              "DocumentMoniker": "D:\\Meus Arquivos\\Prog\\projetos\\API C# Biblioteca - Desafio GPT\\sistema-biblioteca-C-\\SistemaBiblioteca\\DTOs\\AutorCreateDTO.cs",
-              "RelativeDocumentMoniker": "DTOs\\AutorCreateDTO.cs",
-              "ToolTip": "D:\\Meus Arquivos\\Prog\\projetos\\API C# Biblioteca - Desafio GPT\\sistema-biblioteca-C-\\SistemaBiblioteca\\DTOs\\AutorCreateDTO.cs",
-              "RelativeToolTip": "DTOs\\AutorCreateDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-03T19:16:04.134Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "BookCreateDTO.cs",
-              "DocumentMoniker": "D:\\Meus Arquivos\\Prog\\projetos\\API C# Biblioteca - Desafio GPT\\sistema-biblioteca-C-\\SistemaBiblioteca\\DTOs\\BookCreateDTO.cs",
-              "RelativeDocumentMoniker": "DTOs\\BookCreateDTO.cs",
-              "ToolTip": "D:\\Meus Arquivos\\Prog\\projetos\\API C# Biblioteca - Desafio GPT\\sistema-biblioteca-C-\\SistemaBiblioteca\\DTOs\\BookCreateDTO.cs",
-              "RelativeToolTip": "DTOs\\BookCreateDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-03T18:59:54.641Z",
+              "WhenOpened": "2024-06-27T23:55:52.792Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "AutorRoutes.cs",
-              "DocumentMoniker": "D:\\Meus Arquivos\\Prog\\projetos\\API C# Biblioteca - Desafio GPT\\sistema-biblioteca-C-\\SistemaBiblioteca\\Routes\\AutorRoutes.cs",
-              "RelativeDocumentMoniker": "Routes\\AutorRoutes.cs",
-              "ToolTip": "D:\\Meus Arquivos\\Prog\\projetos\\API C# Biblioteca - Desafio GPT\\sistema-biblioteca-C-\\SistemaBiblioteca\\Routes\\AutorRoutes.cs",
-              "RelativeToolTip": "Routes\\AutorRoutes.cs",
-              "ViewState": "AQIAAEkAAAAAAAAAAAAgwFcAAAAAAAAA",
+              "Title": "LoanRoutes.cs",
+              "DocumentMoniker": "D:\\Meus Arquivos\\Prog\\projetos\\API C# Biblioteca - Desafio GPT\\sistema-biblioteca-C-\\SistemaBiblioteca\\Routes\\LoanRoutes.cs",
+              "RelativeDocumentMoniker": "Routes\\LoanRoutes.cs",
+              "ToolTip": "D:\\Meus Arquivos\\Prog\\projetos\\API C# Biblioteca - Desafio GPT\\sistema-biblioteca-C-\\SistemaBiblioteca\\Routes\\LoanRoutes.cs",
+              "RelativeToolTip": "Routes\\LoanRoutes.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAgwEcAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-01T20:51:10.38Z",
+              "WhenOpened": "2024-07-04T16:09:51.933Z",
               "EditorCaption": ""
             },
             {
@@ -137,22 +103,23 @@
               "RelativeDocumentMoniker": "Routes\\BookRoutes.cs",
               "ToolTip": "D:\\Meus Arquivos\\Prog\\projetos\\API C# Biblioteca - Desafio GPT\\sistema-biblioteca-C-\\SistemaBiblioteca\\Routes\\BookRoutes.cs",
               "RelativeToolTip": "Routes\\BookRoutes.cs",
-              "ViewState": "AQIAACYAAAAAAAAAAAAgwEsAAAANAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-02T16:03:43.379Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Meus Arquivos\\Prog\\projetos\\API C# Biblioteca - Desafio GPT\\sistema-biblioteca-C-\\SistemaBiblioteca\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\Meus Arquivos\\Prog\\projetos\\API C# Biblioteca - Desafio GPT\\sistema-biblioteca-C-\\SistemaBiblioteca\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAaAAAA",
+              "DocumentIndex": 4,
+              "Title": "Loan.cs",
+              "DocumentMoniker": "D:\\Meus Arquivos\\Prog\\projetos\\API C# Biblioteca - Desafio GPT\\sistema-biblioteca-C-\\SistemaBiblioteca\\Models\\Loan.cs",
+              "RelativeDocumentMoniker": "Models\\Loan.cs",
+              "ToolTip": "D:\\Meus Arquivos\\Prog\\projetos\\API C# Biblioteca - Desafio GPT\\sistema-biblioteca-C-\\SistemaBiblioteca\\Models\\Loan.cs",
+              "RelativeToolTip": "Models\\Loan.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-27T23:55:52.792Z"
+              "WhenOpened": "2024-07-04T16:22:27.105Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -181,15 +148,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 5,
               "Title": "BibliotecaContext.cs",
               "DocumentMoniker": "D:\\Meus Arquivos\\Prog\\projetos\\API C# Biblioteca - Desafio GPT\\sistema-biblioteca-C-\\SistemaBiblioteca\\DB\\BibliotecaContext.cs",
               "RelativeDocumentMoniker": "DB\\BibliotecaContext.cs",
               "ToolTip": "D:\\Meus Arquivos\\Prog\\projetos\\API C# Biblioteca - Desafio GPT\\sistema-biblioteca-C-\\SistemaBiblioteca\\DB\\BibliotecaContext.cs",
               "RelativeToolTip": "DB\\BibliotecaContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAArAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-27T23:59:18.273Z"
+              "WhenOpened": "2024-06-27T23:59:18.273Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -201,8 +169,7 @@
               "RelativeToolTip": "DB\\DAL.cs",
               "ViewState": "AQIAABwAAAAAAAAAAAAcwDAAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-28T00:25:21.897Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-28T00:25:21.897Z"
             }
           ]
         },

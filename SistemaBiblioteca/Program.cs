@@ -17,6 +17,7 @@ builder.Services.AddDbContext<BibliotecaContext>(options =>
 });
 builder.Services.AddTransient<DAL<Book>>();
 builder.Services.AddTransient<DAL<Autor>>();
+builder.Services.AddTransient<DAL<Loan>>();
 
 //Essa linha serve para corrigir um erro relacionado ao Json
 builder.Services.Configure<Microsoft.AspNetCore.Http.Json.JsonOptions>(options => options.SerializerOptions.ReferenceHandler = ReferenceHandler.IgnoreCycles);
@@ -27,5 +28,6 @@ var app = builder.Build();
 //API Routes
 app.AddAutorRoutes();
 app.AddBookRoutes();
+app.AddLoanRoutes();
 
 app.Run();

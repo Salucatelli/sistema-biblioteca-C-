@@ -7,6 +7,7 @@ namespace SistemaBiblioteca.DB
     {
         public DbSet<Book> Books { get; set; }
         public DbSet<Autor> Autors { get; set; }
+        public DbSet<Loan> Loans { get; set; }
 
         private string connectionString = "Data Source=(localdb)\\MSSQLLocalDB;Initial Catalog=SistemaBiblioteca;Integrated Security=True;Encrypt=False;Trust Server Certificate=False;Application Intent=ReadWrite;Multi Subnet Failover=False; MultipleActiveResultSets=true";
 
